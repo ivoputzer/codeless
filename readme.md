@@ -1,5 +1,3 @@
-i really gotta se whats new here :P
-
 # what codeless is
 
 codeless is a slick php framework that focuses on modularity and performance!
@@ -36,12 +34,3 @@ codeless is a slick php framework that focuses on modularity and performance!
 		→ pages - virtual folder
 		→ views - virtual folder
 		→ tests - testing is as important as the content itself
-
-
-
-
-# checking out git git feautures
-
-
-
-sdfsdfsdf
